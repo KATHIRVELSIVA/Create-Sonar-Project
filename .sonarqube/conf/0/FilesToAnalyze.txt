@@ -1,0 +1,14 @@
+﻿D:\SKV\Codes\Assessment\Microservice\Webapis\Create\Controllers\TeacherController.cs
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\Data\Appdbcontext.cs
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\Migrations\20231226035441_CreateTeacher.cs
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\Migrations\20231226035441_CreateTeacher.Designer.cs
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\Migrations\AppdbcontextModelSnapshot.cs
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\Models\TeacherModel.cs
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\Program.cs
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\obj\Debug\net7.0\Create.GlobalUsings.g.cs
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\obj\Debug\net7.0\Create.AssemblyInfo.cs
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\obj\Debug\net7.0\Create.MvcApplicationPartsAssemblyInfo.cs
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\appsettings.Development.json
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\appsettings.json
+D:\SKV\Codes\Assessment\Microservice\Webapis\Create\Properties\launchSettings.json

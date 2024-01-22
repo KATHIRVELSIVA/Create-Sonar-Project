@@ -1,0 +1,12 @@
+]
+TD:\SKV\Codes\Assessment\Microservice\Webapis\Create\Controllers\TeacherController.csutf-8Q
+HD:\SKV\Codes\Assessment\Microservice\Webapis\Create\Data\Appdbcontext.csutf-8g
+^D:\SKV\Codes\Assessment\Microservice\Webapis\Create\Migrations\20231226035441_CreateTeacher.csutf-8r
+gD:\SKV\Codes\Assessment\Microservice\Webapis\Create\Migrations\20231226035441_CreateTeacher.Designer.csutf-8f
+[D:\SKV\Codes\Assessment\Microservice\Webapis\Create\Migrations\AppdbcontextModelSnapshot.csutf-8S
+JD:\SKV\Codes\Assessment\Microservice\Webapis\Create\Models\TeacherModel.csutf-8G
+>D:\SKV\Codes\Assessment\Microservice\Webapis\Create\Program.csutf-8h
+]D:\SKV\Codes\Assessment\Microservice\Webapis\Create\obj\Debug\net7.0\Create.GlobalUsings.g.csutf-8~
+sD:\SKV\Codes\Assessment\Microservice\Webapis\Create\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8f
+[D:\SKV\Codes\Assessment\Microservice\Webapis\Create\obj\Debug\net7.0\Create.AssemblyInfo.csutf-8y
+nD:\SKV\Codes\Assessment\Microservice\Webapis\Create\obj\Debug\net7.0\Create.MvcApplicationPartsAssemblyInfo.csutf-8
